@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hey, I’m Kalyani <br>🧠 What I’m Good At<br>       Web dev: REST APIs, JWT auth, full‑stack apps, and cloud deployments (Vercel, etc.).<br>​        AI/ML & data science: notebooks to clean, analyze, model, and evaluate real‑world data (regression, classification, clustering).<br>        Cybersecurity basics: secure auth, OWASP‑aware backend design, input validation, and safe handling of secrets.<br>        CS fundamentals: data structures, algorithms, OOP, databases (SQL + basic schema design).<br>🛠Tech Stack<br>        Languages: Python, JavaScript/TypeScript, SQL, C/C++, Java.<br>        Web: React / Next.js, Node.js, Flask, HTML5, Tailwind/Bootstrap CSS.<br>        AI/ML & DS: NumPy, Pandas, Matplotlib/Seaborn, Scikit‑Learn, PyTorch / TensorFlow.<br>        Databases & Infra: PostgreSQL/MySQL, MongoDB, Redis (basics), Docker (basics), CI/CD on GitHub Actions.<br>        Tools: Git & GitHub, VS Code, Jupyter, Postman, Linux shell.
 
 
