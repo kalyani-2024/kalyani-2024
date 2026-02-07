@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hey, I’m Kalyani <br>🧠 What I’m Good At<br>       Web dev: REST APIs, full‑stack apps, AI/ML modelling, EDA and cloud deployments (Vercel, etc.).<br>​        AI/ML & data science: notebooks to clean, analyze, model, and evaluate real‑world data (regression, classification, clustering).<br>        Cybersecurity basics: secure auth, OWASP‑aware backend design, input validation, and safe handling of secrets.<br>        CS fundamentals: data structures, algorithms, OOP, databases (SQL + basic schema design).<br>
+👋 Hey, I’m Kalyani <br>🧠 What I’m Good At<br>       Web dev: REST APIs, full‑stack apps and cloud deployments (Vercel, etc.).<br>​        AI/ML & Data Science: , AI/ML modelling, EDA, notebooks to clean, analyze, model, and evaluate real‑world data (regression, classification, clustering).<br>        Cybersecurity basics: secure auth, OWASP‑aware backend design, input validation, and safe handling of secrets.<br>        CS fundamentals: data structures and algorithms, OOP, databases (SQL + basic schema design).<br>
 
 
 ## 🌐 Socials:
