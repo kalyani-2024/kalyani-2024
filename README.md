@@ -3,11 +3,11 @@
 
 **Generative AI & LLMs** — Building RAG systems, LLM evaluation and hallucination analysis, and agentic workflows with LangGraph. I care about making models *grounded and trustworthy*, not just functional (adversarial critique loops, faithfulness metrics, fairness-aware calibration).
 
-**ML & Data Science** — End-to-end from notebook to deployment: EDA, cleaning, modelling, and evaluation on real-world data (regression, classification, clustering, transformer-based anomaly detection), with explainability via SHAP.
+**ML & Data Science** — EDA, cleaning, modelling, and evaluation on real-world data (regression, classification, clustering, transformer-based anomaly detection), with explainability via SHAP.
 
-**Full-Stack & Web Dev** — REST APIs and full-stack apps in Flask, FastAPI, and React, deployed to the cloud (AWS, Vercel, Render). Comfortable owning a feature from database schema to UI.
+**Full-Stack & Web Dev** — REST APIs and full-stack apps in Flask, FastAPI, and React, deployed to the cloud (AWS, Vercel, Render). 
 
-**CS Fundamentals** — Data structures & algorithms, OOP, and databases (SQL + schema design) — the foundation under everything above.
+**CS Fundamentals** — Data structures & algorithms, OOP, Databases and Computer Networks — the foundation under everything above.
 
 **Security-Aware Development** — Secure auth, OWASP-conscious backend design, input validation, and safe secrets handling baked in rather than bolted on.
 
