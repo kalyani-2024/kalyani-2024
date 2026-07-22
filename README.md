@@ -7,7 +7,7 @@
 
 **Full-Stack & Web Dev** — REST APIs and full-stack apps in Flask, FastAPI, and React, deployed to the cloud (AWS, Vercel, Render). 
 
-**CS Fundamentals** — Data structures & algorithms, OOP, Databases and Computer Networks — the foundation under everything above.
+**CS Fundamentals** — Data structures & algorithms, OOP, Databases, OS and Computer Networks
 
 **Security-Aware Development** — Secure auth, OWASP-conscious backend design, input validation, and safe secrets handling baked in rather than bolted on.
 
