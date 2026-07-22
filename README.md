@@ -9,7 +9,7 @@
 
 **CS Fundamentals** — Data structures & algorithms, OOP, Databases, OS and Computer Networks
 
-**Security-Aware Development** — Secure auth, OWASP-conscious backend design, input validation, and safe secrets handling baked in rather than bolted on.
+**Security-Aware Development** — Secure auth, OWASP-conscious backend design, input validation, and safe secrets handling.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalyani-baiju-sindhu)
